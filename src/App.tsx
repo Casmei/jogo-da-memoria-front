@@ -103,7 +103,7 @@ const App = () => {
     <C.Container>
       <C.Info>
         <C.LogoLink href="">
-          <img src={logoImage} width="200" alt="" />
+          <h1 style={{fontSize: 30}}>DevMemory</h1>
         </C.LogoLink>
 
         <C.InfoArea>
